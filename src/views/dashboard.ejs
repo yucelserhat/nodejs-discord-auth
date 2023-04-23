@@ -1,0 +1,16 @@
+<%- include('partials/header') -%>
+
+<main class="bg-dark">
+  <div class="container text-light">
+    <h1>Lufta Dashboard</h1>
+
+    <p><%- user.username %>, bunlar senin buluduğun sunucular ve sunuculardaki yetkilerin</p>
+
+    <div class="row">
+      <% guilds.forEach((guild) => { %> <%- include('partials/guild', { guild })
+      -%> <% }) %>
+    </div>
+  </div>
+</main>
+
+<%- include('partials/footer') -%>

@@ -1,0 +1,22 @@
+{
+  "name": "lufta-nodejs-discord-auth",
+  "version": "1.0.0",
+  "description": "Lufta Discord Bot Dashboard",
+  "main": "index.js",
+  "dependencies": {
+    "connect-mongo": "^4.6.0",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "mongoose": "^6.4.4",
+    "nodemon": "^2.0.19",
+    "passport": "^0.6.0",
+    "passport-discord": "^0.1.4"
+  },
+  "scripts": {
+    "boot": "nodemon src/index.js"
+  },
+  "author": "Lufta#0001",
+  "license": "ISC"
+}
