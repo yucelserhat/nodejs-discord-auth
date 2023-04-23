@@ -9,5 +9,5 @@ Express ile hazırlamış discord web tabanlı yönetim paneli yetkilendirme pro
 - http://localhost:3000/ sekmesini açın
 - Proje kullanıma hazır iyi kodlamalar.
 ## İletişim
-[Discord Profilim](https://discord.com/users/962483267683119105)
+[Discord Profilim](https://discord.com/users/1091640225454903356)
 - Herhangi bir sorun ile karşılaşırsanız benimle iletişime geçebilirsiniz.
